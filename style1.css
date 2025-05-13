@@ -1,0 +1,11 @@
+head{
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    color: brown;
+    font-size: large;
+    text-align: center;
+    background-color: aqua;
+}
